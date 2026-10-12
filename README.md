@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sobre mim
 
-<!--
-**Marcelodasilv/Marcelodasilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta da tecnologia, com foco em programação Java, segurança da informação e investigação digital (OSINT). Busco desenvolver conhecimentos técnicos por meio de estudos contínuos e projetos práticos, aprimorando minhas habilidades em desenvolvimento de software e análise de informações.
 
-Here are some ideas to get you started:
+## Áreas de estudo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programação Java:** lógica de programação, estruturas de dados, coleções e programação orientada a objetos.
+- **Segurança da Informação:** fundamentos de cibersegurança, análise de vulnerabilidades e hacking ético.
+- **OSINT:** coleta, análise e correlação de informações disponíveis em fontes abertas.
+- **Desenvolvimento de Software:** criação de projetos práticos, resolução de problemas e boas práticas de programação.
+- **Git e GitHub:** controle de versão, organização de código e documentação de projetos.
+
+## Objetivos
+
+Meu objetivo é aprofundar meus conhecimentos em desenvolvimento de software e segurança da informação, construindo projetos que demonstrem minha evolução técnica e capacidade de resolver problemas. Utilizo este perfil para documentar meus estudos, compartilhar projetos e consolidar minha experiência prática.
+
