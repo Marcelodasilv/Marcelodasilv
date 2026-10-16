@@ -14,3 +14,10 @@ Sou um entusiasta da tecnologia, com foco em programação Java, segurança da i
 
 Meu objetivo é aprofundar meus conhecimentos em desenvolvimento de software e segurança da informação, construindo projetos que demonstrem minha evolução técnica e capacidade de resolver problemas. Utilizo este perfil para documentar meus estudos, compartilhar projetos e consolidar minha experiência prática.
 
+### Tecnologias e Ferramentas
+
+![Java](https://shields.io)
+![Python](https://shields.io)
+![MySQL](https://shields.io)
+![Git](https://shields.io)
+
