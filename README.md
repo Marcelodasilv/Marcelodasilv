@@ -31,7 +31,3 @@ Desenvolvedor backend em formação, com foco em **Java** e interesse em **segur
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/marcelo-da-silva-43b45a425/)
