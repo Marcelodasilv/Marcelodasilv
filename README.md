@@ -16,8 +16,6 @@ Meu objetivo é aprofundar meus conhecimentos em desenvolvimento de software e s
 
 ### Tecnologias e Ferramentas
 
-### Tecnologias e Ferramentas
-
 ![Java](https://shields.io) ![Python](https://shields.io) ![MySQL](https://shields.io) ![Git](https://shields.io)
 
 
