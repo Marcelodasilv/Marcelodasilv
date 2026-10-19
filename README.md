@@ -34,6 +34,8 @@ Desenvolvedor backend em formação, com foco em **Java** e **Python** e interes
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelodasilv&layout=compact&theme=tokyonight&hide_border=true)
+
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-da-silva-43b45a425/)
