@@ -24,6 +24,8 @@ Desenvolvedor backend em formação, com foco em **Java** e **Python** e interes
 - **OSINT:** coleta, análise e correlação de informações em fontes abertas
 - **Git e GitHub:** controle de versão e documentação de projetos
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelodasilv&layout=compact&theme=tokyonight&hide_border=true)
+
 ## Tecnologias e ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -33,8 +35,6 @@ Desenvolvedor backend em formação, com foco em **Java** e **Python** e interes
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelodasilv&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Contato
 
