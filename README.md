@@ -24,8 +24,6 @@ Desenvolvedor backend em formação, com foco em **Java** e **Python** e interes
 - **OSINT:** coleta, análise e correlação de informações em fontes abertas
 - **Git e GitHub:** controle de versão e documentação de projetos
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelodasilv&layout=compact&theme=tokyonight&hide_border=true)
-
 ## Tecnologias e ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
