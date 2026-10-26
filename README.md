@@ -16,14 +16,6 @@ Desenvolvedor backend em formação, com foco em **Java** e **Python** e interes
 - [**Projeto-Teste-Com-JPA-Hibernate**](https://github.com/Marcelodasilv/Projeto-Teste-Com-JPA-Hibernate): conexão com MySQL usando JPA/Hibernate.
 - [**Gerenciador-de-Cadastros**](https://github.com/Marcelodasilv/Gerenciador-de-Cadastros): conexão manual com MySQL usando Maven.
 
-## Áreas de estudo
-
-- **Java:** lógica de programação, estruturas de dados, coleções e orientação a objetos
-- **Python:** automação e consumo de APIs e ferramentas de coleta
-- **Segurança da informação:** fundamentos de cibersegurança, análise de vulnerabilidades e hacking ético
-- **OSINT:** coleta, análise e correlação de informações em fontes abertas
-- **Git e GitHub:** controle de versão e documentação de projetos
-
 ## Tecnologias e ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
