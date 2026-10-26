@@ -9,13 +9,6 @@ Desenvolvedor backend em formação, com foco em **Java** e **Python** e interes
 - Integração entre **Python** e **Java** por HTTP (coleta em Python, armazenamento na API)
 - Fundamentos de segurança e boas práticas de código
 
-## Projetos
-
-- [**API-OSINT**](https://github.com/Marcelodasilv/API-OSINT): API REST em Spring Boot que grava no MySQL os dados coletados por um cliente Python (Whois, Shodan e theHarvester).
-- [**Cofre-de-Senhas**](https://github.com/Marcelodasilv/Cofre-de-Senhas): gerador e gerenciador de senhas em Java (projeto didático de criptografia).
-- [**Projeto-Teste-Com-JPA-Hibernate**](https://github.com/Marcelodasilv/Projeto-Teste-Com-JPA-Hibernate): conexão com MySQL usando JPA/Hibernate.
-- [**Gerenciador-de-Cadastros**](https://github.com/Marcelodasilv/Gerenciador-de-Cadastros): conexão manual com MySQL usando Maven.
-
 ## Tecnologias e ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
