@@ -26,16 +26,9 @@ Backend developer in training, with a core focus on Java and Python, and a stron
 * Python and Java integration via HTTP (Python data collection, API storage)
 * Security fundamentals and clean code best practices
 
-## Technologies and Tools
-
-* Languages: Java, Python
-* Frameworks and Libraries: Spring Boot, Hibernate
-* Databases: MySQL
-* Tools and Build Systems: Maven, IntelliJ IDEA
-
 ## Contact
 
-* Let's connect on [LinkedIn](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-da-silva-43b45a425/)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
