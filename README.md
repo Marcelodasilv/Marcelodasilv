@@ -22,3 +22,27 @@ Desenvolvedor backend em formação, com foco em **Java** e **Python** e interes
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-da-silva-43b45a425/)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## About me
+
+Backend developer in training, with a core focus on Java and Python, and a strong interest in Information Security and OSINT. I learn by practicing, building projects, and documenting my technical evolution here.
+
+## Current Focus
+
+* REST APIs with Spring Boot
+* Data persistence using JPA, Hibernate, and MySQL
+* Python and Java integration via HTTP (Python data collection, API storage)
+* Security fundamentals and clean code best practices
+
+## Technologies and Tools
+
+* Languages: Java, Python
+* Frameworks and Libraries: Spring Boot, Hibernate
+* Databases: MySQL
+* Tools and Build Systems: Maven, IntelliJ IDEA
+
+## Contact
+
+* Let's connect on [LinkedIn](https://linkedin.com)
